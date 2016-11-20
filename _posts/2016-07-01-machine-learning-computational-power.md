@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Computational Power
-permalink: /:categories/:title.html
-categories: computationalpower
+permalink: /:title.html
+categories: MachineLearning
 ---
 
 

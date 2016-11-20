@@ -24,7 +24,7 @@ task :new do
             file.puts "title: #{@name}"
             file.puts "author: 黄承威"
             file.puts "date: #{Time.now}"
-            file.puts "permalink: /:categories/:title.html"
+            file.puts "permalink: /:title.html"
             file.puts "categories: #{@categories}"
             file.puts "---"
     end
